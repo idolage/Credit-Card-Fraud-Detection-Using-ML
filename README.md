@@ -7,7 +7,7 @@ Find the dataset from here: https://www.kaggle.com/datasets/kartik2112/fraud-det
 Size: 1852394 rows and  23 columns<br/>
 Train dataset:  (1296675, 23)<br/>
 Test dataset:  (555719, 23)<br/>
-Highly imbalanced<br/>
+#### Highly imbalanced
 No of legit transactions : 1842743<br/>
 No of fraud transactions: 9 651<br/>
 
